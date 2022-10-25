@@ -25,7 +25,7 @@
 
 ## API para ejemplo
 
-Desarrollar una aplicación que indique el pronostico del clima en un rango de los 2 próximos días.
+Desarrollar una aplicación que indique el pronóstico del clima en un rango de los próximos 5 días.
 Utilizar el API pública:
 
 https://open-meteo.com/en
