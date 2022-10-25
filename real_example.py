@@ -1,0 +1,8 @@
+import requests
+import json
+
+
+response = requests.get("https://jsonplaceholder.typicode.com/todos")
+todos = json.loads(response.text)
+
+print(json.dumps(todos[:10], indent=4))
